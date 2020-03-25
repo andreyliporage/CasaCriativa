@@ -3,11 +3,14 @@ function onOff() {
         .querySelector("#modal")
         .classList
         .toggle("hide")
-}
 
-function off() {
     document
-        .querySelector("footer")
+        .querySelector("body")
         .classList
-        .toggle("hide")
+        .toggle("hideScroll")
+
+    document
+        .querySelector("#modal")
+        .classList
+        .toggle("addScroll")
 }
