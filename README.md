@@ -2,16 +2,16 @@
 
 ## Um projeto para guardar as ideias que você quer fazer nesse momento de pandemia.
 
-<p> Ferramentas utilizadas: 
-### FRONT-END
+<h2> Ferramentas utilizadas:</h2>
+<h3>FRONT-END<h3>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <br>
-### BACK-END
+ <h3>BACK-END</h3>
   <li>NodeJs</li>
   <br>
-### BANCO DE DADOS
+  <h3>BANCO DE DADOS</h3>
   <li>SQLite</li>
   
   
