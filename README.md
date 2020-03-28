@@ -3,7 +3,7 @@
 ## Um projeto para guardar as ideias que você quer fazer nesse momento de pandemia.
 
 <h2> Ferramentas utilizadas:</h2>
-<h3>FRONT-END<h3>
+<h3>FRONT-END</h3>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
