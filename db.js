@@ -15,7 +15,7 @@ db.serialize(function() { //"serialize" permite rodar comandos sql
         )
     `)
 
-    // Inserir dado na tabela
+    //Inserir dado na tabela
 //     const query = `
 //     INSERT INTO ideas(
 //         image,
